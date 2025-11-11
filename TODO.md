@@ -1,0 +1,2 @@
+- [x] Edit SecondPage.dart to simplify to only the 'Adios' button with enhanced styles
+- [ ] Test the changes by running the Flutter app
